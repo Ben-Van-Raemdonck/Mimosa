@@ -2,6 +2,7 @@ name: Mimosa
 channels:
   - conda-forge
   - defaults
+  - plotly
 dependencies:
   - pandas
   - plotly
