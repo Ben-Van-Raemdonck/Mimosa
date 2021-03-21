@@ -8,5 +8,4 @@ dependencies:
   - plotly
   - jupyter
   - openpyxl
-  - plotlylab
 prefix: D:\Users\Ben\anaconda3\envs\Mimosa
