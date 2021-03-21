@@ -6,4 +6,4 @@ Dit notebook maakt interactieve grafieken over hoe patienten bij praktijk Mimosa
 
 :point_down: Klik de binder link voor een interactieve versie.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ben-Van-Raemdonck/Mimosa/HEAD?filepath=mimosa.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ben-Van-Raemdonck/Mimosa/HEAD)
