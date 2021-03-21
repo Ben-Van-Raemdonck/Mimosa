@@ -1,0 +1,13 @@
+name: Mimosa
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - plotly
+  - jupyter
+  - xlrd
+  - openpyxl
+  - jupyterlab
+prefix: D:\Users\Ben\anaconda3\envs\Mimosa
