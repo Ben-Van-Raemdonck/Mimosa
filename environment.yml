@@ -3,11 +3,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.8
   - pandas
   - plotly
   - jupyter
-  - xlrd
   - openpyxl
-  - jupyterlab
+  - plotlylab
 prefix: D:\Users\Ben\anaconda3\envs\Mimosa
